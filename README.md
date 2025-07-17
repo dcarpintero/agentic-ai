@@ -1,4 +1,4 @@
-# The Agentic Shift - Design Patterns for Building AI Systems
+# Design Patterns for Building Agentic Workflows
 
 *Originally published on 5 July 2025 at https://tech.diegocarpintero.com/blog/agentic-shift-design-patterns-for-building-ai-systems/*
 
